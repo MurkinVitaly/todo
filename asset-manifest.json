@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MurkinVitaly/todo.git/static/css/main.0dd078cc.css",
+    "main.js": "/MurkinVitaly/todo.git/static/js/main.2d667514.js",
+    "index.html": "/MurkinVitaly/todo.git/index.html",
+    "main.0dd078cc.css.map": "/MurkinVitaly/todo.git/static/css/main.0dd078cc.css.map",
+    "main.2d667514.js.map": "/MurkinVitaly/todo.git/static/js/main.2d667514.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dd078cc.css",
+    "static/js/main.2d667514.js"
+  ]
+}
